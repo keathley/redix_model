@@ -1,0 +1,4 @@
+%{"connection": {:hex, :connection, "1.0.4", "a1cae72211f0eef17705aaededacac3eb30e6625b04a6117c1b2db6ace7d5976", [], [], "hexpm"},
+  "propcheck": {:hex, :propcheck, "1.0.4", "f83174301b637bce011a4ebf0e4f10e9bae38d6eefebdd117677c7884bc99aa4", [], [{:proper, "~> 1.2.0", [hex: :proper, repo: "hexpm", optional: false]}], "hexpm"},
+  "proper": {:hex, :proper, "1.2.0", "1466492385959412a02871505434e72e92765958c60dba144b43863554b505a4", [], [], "hexpm"},
+  "redix": {:hex, :redix, "0.7.0", "14a22cba1137600ccf8d64baf1b291689add779488f9a193d7d83dcc3e03a7a4", [], [{:connection, "~> 1.0", [hex: :connection, repo: "hexpm", optional: false]}], "hexpm"}}
